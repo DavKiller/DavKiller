@@ -22,4 +22,4 @@ Soy un estudiante de ASIR (Administración de Sistemas Informaticos en Red), est
   - VMware Workstation
 
 ---
-⌨️ with ❤️ by [DavKiller](https://github.com/DavKiller)
+made with ❤️ by [DavKiller](https://github.com/DavKiller)
