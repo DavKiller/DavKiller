@@ -5,7 +5,6 @@ Como puedes obviar mi imagen de perfil, si soy Furry, mi sona es un Lucario-Lobo
 Intentare mantener actualizado el perfil e intentar hacer proyectos de vez en cuando (Y no matarlos a mitad de camino) 
 Puedes encontrarme en Twitter con el nick [@DavKillerAural](https://twitter.com/DavKillerAural)
 
-
 ## Mis Skills
 ### Lenguajes de marcas & de programación 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,md)](https://skillicons.dev)
@@ -18,3 +17,5 @@ Puedes encontrarme en Twitter con el nick [@DavKillerAural](https://twitter.com/
 
 ---
 made with ❤️ by [DavKiller](https://github.com/DavKiller)
+
+[Twitter](https://twitter.com/DavKillerAural)
