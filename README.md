@@ -1,7 +1,9 @@
 # Hola a todos! 👋
 
 Soy Dav, soy un Sysadmin en crecimiento, intentando mejorar mis dotes de programción web y la administración de servidores en mis tiempos libres.
-Como puedes obviar mi imagen de perfil, si soy Furry, mi sona es un Lucario-Lobo 🐺💙 
+Como puedes obviar mi imagen de perfil, si soy Furry, mi sona es un Lucario-Lobo 🐺💙
+Intentare mantener actualizado el perfil e intentar hacer proyectos de vez en cuando (Y no matarlos a mitad de camino) 
+Puedes encontrarme en Twitter con el nick [@DavKillerAural](https://twitter.com/DavKillerAural)
 
 ## Mis Skills
 ### Lenguajes de marcas & de programación 
