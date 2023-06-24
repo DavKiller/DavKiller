@@ -1,7 +1,7 @@
 # Hola a todos! 👋
 
-## Presentación
-Soy David, un técnico superior en Administración de Sistemas Informáticos en Red. 
+Soy Dav, soy un Sysadmin en crecimiento, intentando mejorar mis dotes de programción web y la administración de servidores en mis tiempos libres.
+Como puedes obviar mi imagen de perfil, si soy Furry, mi sona es un Lucario-Lobo 🐺💙 
 
 ## Mis Skills
 ### Lenguajes de marcas & de programación 
@@ -15,3 +15,5 @@ Soy David, un técnico superior en Administración de Sistemas Informáticos en 
 
 ---
 made with ❤️ by [DavKiller](https://github.com/DavKiller)
+
+[Twitter](https://twitter.com/DavKillerAural)
