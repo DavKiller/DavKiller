@@ -17,5 +17,3 @@ Puedes encontrarme en Twitter con el nick [@DavKillerAural](https://twitter.com/
 
 ---
 made with ❤️ by [DavKiller](https://github.com/DavKiller)
-
-[Twitter](https://twitter.com/DavKillerAural)
