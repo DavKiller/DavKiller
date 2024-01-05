@@ -1,4 +1,4 @@
-# Feliz Navidad y Feliz año a todos! 🎆☃️
+# Feliz 2024 a tod@s! 🎆
 
 # Hola a todos! 👋
 
