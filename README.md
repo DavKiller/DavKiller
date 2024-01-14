@@ -1,5 +1,3 @@
-# Feliz 2024 a tod@s! 🎆
-
 # Hola a todos! 👋
 
 Soy Dav, soy un Sysadmin en crecimiento, intentando mejorar mis dotes de programción web y la administración de servidores en mis tiempos libres.
